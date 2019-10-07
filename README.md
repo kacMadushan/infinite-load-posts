@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Infinite Load Posts
-
+A simple create react infinite load posts app in styled-components.
 
 ## Available Scripts
 
